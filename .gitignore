@@ -1,0 +1,25 @@
+# Dependencies
+.bundle/
+vendor/bundle/
+*.gem
+*.rbc
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Misc
+.cache/
+.temp/
+tmp/
