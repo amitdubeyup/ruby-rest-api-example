@@ -1,7 +1,5 @@
 # Ruby Rest Api Example
 
-
-
 ## 📝 About The Project
 Backend REST API service, designed to handle data persistence and business logic for the Ruby Rest  Example ecosystem.
 
@@ -11,9 +9,6 @@ Backend REST API service, designed to handle data persistence and business logic
 
 ## 🛠️ Tech Stack
 *   **Standard Stack**
-
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📦 Installation
 
@@ -29,6 +24,9 @@ Backend REST API service, designed to handle data persistence and business logic
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
